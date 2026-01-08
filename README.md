@@ -4,7 +4,9 @@ I currently work at US EPA as Physical Scientist for the Office of Wastewater Ma
 
 You can read more about me [here](https://seanthimons.github.io/)!
 
-![seanthimons's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seanthimons&theme=solarized-dark&show_icons=true&hide_border=true&layout=compact)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 <!--
 **seanthimons/seanthimons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
