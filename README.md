@@ -8,7 +8,7 @@ You can read more about me [here](https://seanthimons.github.io/)!
 
 ![Top Languages](./profile/top-langs.svg)
 
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+![Wakatime stats](./profile/wakatime.svg)
 <!--
 **seanthimons/seanthimons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
