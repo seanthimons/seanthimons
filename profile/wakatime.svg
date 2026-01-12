@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="338.6595"
+            width="349.494"
             height="8"
             fill="#198CE7"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="338.6595"
+            x="349.494"
             y="0"
-            width="83.60700000000001"
+            width="76.3065"
             height="8"
             fill="#292929"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="422.2665"
+            x="425.80050000000006"
             y="0"
-            width="23.064"
+            width="21.017999999999997"
             height="8"
             fill="#cb171e"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="445.33050000000003"
+            x="446.81850000000003"
             y="0"
-            width="14.2755"
+            width="13.02"
             height="8"
             fill="#083fa1"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="459.60600000000005"
+            x="459.8385"
             y="0"
-            width="3.5805000000000002"
+            width="3.255"
             height="8"
             fill="#858585"
           />
@@ -177,9 +177,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="463.1865"
+            x="463.0935"
             y="0"
-            width="1.8135"
+            width="1.6275"
             height="8"
             fill="#F44D27"
           />
@@ -188,7 +188,7 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#198CE7" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        R - 4 hrs 19 mins
+        R - 4 hrs 53 mins
       </text>
     </g>
   
