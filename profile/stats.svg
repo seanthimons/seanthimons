@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Sean Thimons' GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  (last year) : 2536, Total PRs: 48, Total Issues: 210, Contributed to (last year): 8</desc>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  (last year) : 2546, Total PRs: 50, Total Issues: 213, Contributed to (last year): 8</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 142.61911315484932;
+        stroke-dashoffset: 141.7299303828725;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >48</text>
+      >50</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >210</text>
+      >213</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
