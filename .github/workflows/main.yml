@@ -38,6 +38,7 @@ jobs:
         with:
             card: wakatime
             options: username=seanthimons&layout=compact&theme=synthwave
+            path: profile/wakatime.svg
             token: ${{ secrets.PAT }}
 
       - name: Commit cards
