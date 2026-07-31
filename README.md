@@ -4,11 +4,9 @@ I currently work at US EPA as Physical Scientist for the Office of Wastewater Ma
 
 You can read more about me [here](https://seanthimons.github.io/)!
 
-![Stats](./profile/stats.svg)
+![GitHub stats overview](https://github.com/seanthimons/github-stats/blob/generated/overview.svg)
 
-![Top Languages](./profile/top-langs.svg)
-
-![Wakatime stats](./profile/wakatime.svg)
+![Top languages](https://github.com/seanthimons/github-stats/blob/generated/languages.svg)
 <!--
 **seanthimons/seanthimons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
